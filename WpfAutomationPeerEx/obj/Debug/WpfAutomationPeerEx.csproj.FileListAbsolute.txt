@@ -1,0 +1,32 @@
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.exe.config
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.csprojResolveAssemblyReference.cache
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\MainWindow.g.cs
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx_MarkupCompile.cache
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx_MarkupCompile.lref
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.exe
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.pdb
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\App.g.cs
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\App.baml
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\MainWindow.baml
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.g.resources
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.Properties.Resources.resources
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.csproj.GenerateResource.Cache
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.exe
+c:\users\msiddiqi\documents\visual studio 2012\Projects\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.pdb
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.exe.config
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.exe
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.pdb
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.exe
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\bin\Debug\WpfAutomationPeerEx.pdb
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\MainWindow.g.cs
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\App.g.cs
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx_MarkupCompile.cache
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx_MarkupCompile.lref
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\App.baml
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\MainWindow.baml
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.g.resources
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.Properties.Resources.resources
+C:\Users\Muhammad\Desktop\WpfAutomationPeerEx\WpfAutomationPeerEx\obj\Debug\WpfAutomationPeerEx.csproj.GenerateResource.Cache

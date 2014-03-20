@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfAutomationPeerEx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wpfAutomationPeerEx="clr-namespace:WpfAutomationPeerEx"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <wpfAutomationPeerEx:UIAutomationButton 
+            Background="Chartreuse"
+            Content="Test Window"
+            FontFamily="Arial"
+            FontSize="24"
+            FontStyle="Italic" />
+    </Grid>
+</Window>

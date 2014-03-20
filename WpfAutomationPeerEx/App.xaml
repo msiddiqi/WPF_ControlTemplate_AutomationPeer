@@ -1,0 +1,33 @@
+﻿<Application x:Class="WpfAutomationPeerEx.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:wpfAutomationPeerEx="clr-namespace:WpfAutomationPeerEx"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="{x:Type wpfAutomationPeerEx:UIAutomationButton}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type wpfAutomationPeerEx:UIAutomationButton}">
+                        <Grid>
+                            <Ellipse Fill="{TemplateBinding Background}"
+                                     AutomationProperties.AutomationId="UIAutomationEllipsisId"
+                                     x:Name="ButtonSurroundingEllipsis" />
+                            <DockPanel>
+                                <TextBlock Text="Copyright"
+                                       HorizontalAlignment="Center"
+                                       FontSize="10"
+                                       x:Name="CopyrightLabel"
+                                       DockPanel.Dock="Bottom"/>
+                                <Border HorizontalAlignment="Center" VerticalAlignment="Center"
+                                        x:Name="TextSurroundingBorder"
+                                        BorderBrush="BlueViolet" BorderThickness="3" Padding="5">
+                                    <TextBlock Text="{TemplateBinding Content}" x:Name="ButtonContent" />
+                                </Border>
+                            </DockPanel>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>
